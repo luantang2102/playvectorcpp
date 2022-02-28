@@ -34,7 +34,7 @@ void implement_user_menu() {
     } while (user_choice != 'q');
 }
 void display_user_menu() {
-    cout << "-->-Welcome to Vecterator!-<-- \n";
+    cout << ">>>- Welcome - What you want to do? -<<< \n";
     cout << "1 - Sign in \n";
     cout << "2 - Create new account\n";
     cout << "3 - Sign as guest\n";
